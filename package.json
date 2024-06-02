@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sudobinbash/header-app-tester.git"
+    "url": "git+https://github.com/noguchihdk/header-app-tester.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sudobinbash/header-app-tester/issues"
+    "url": "https://github.com/noguchihdk/header-app-tester/issues"
   },
   "homepage": "https://github.com/sudobinbash/header-app-tester#readme",
   "dependencies": {
